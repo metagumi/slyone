@@ -1,0 +1,10 @@
+// alert('Whatever');
+// var name = prompt('Enter your name :');
+
+//1 Prompt the user to enter rock, paper scissors
+// randomly get coomputer's selection
+//display winner or tie
+
+var computer = Math.floor(Math.random() * 3)
+
+// test for equality ===
